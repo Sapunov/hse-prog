@@ -16,7 +16,17 @@ Atlassian tutorials: [https://www.atlassian.com/git/tutorials](https://www.atlas
 
 
 # Python
+
 Обращайте внимание на версию питона! Мы пишем на Python 3.  
+
+## Установка Python
+Для Windows:
+https://www.python.org/downloads/ — простой (он же единственный) путь
+
+Для Mac OS X: 
+https://www.python.org/downloads/ - простой путь
+http://docs.python-guide.org/en/latest/starting/install3/osx/ - более сложный путь, потребует знания командной строки
+
 [Документация](https://docs.python.org/3/index.html)  
 [An Informal Introduction to Python](https://docs.python.org/3/tutorial/introduction.html)  
 [Python Tutor](http://pythontutor.ru/lessons/inout_and_arithmetic_operations/)  
