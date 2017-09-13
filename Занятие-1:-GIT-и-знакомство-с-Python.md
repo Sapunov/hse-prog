@@ -24,7 +24,7 @@ Atlassian tutorials: [https://www.atlassian.com/git/tutorials](https://www.atlas
 https://www.python.org/downloads/ — простой (он же единственный) путь
 
 Для Mac OS X: 
-https://www.python.org/downloads/ - простой путь
+https://www.python.org/downloads/ - простой путь   
 http://docs.python-guide.org/en/latest/starting/install3/osx/ - более сложный путь, потребует знания командной строки
 
 [Документация](https://docs.python.org/3/index.html)  
