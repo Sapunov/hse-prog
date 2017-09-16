@@ -10,12 +10,10 @@
 
 ## Содержание
 
-1) *12.09.2017* 
-Основы git и работа с ним. Знакомство с Python. Базовые арифметические операции. [Занятие 1](https://github.com/morgan1189/HSE-Programming/wiki/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-1:-GIT-%D0%B8-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-Python)   
+1) *12.09.2017* Основы git и работа с ним. Знакомство с Python. Базовые арифметические операции. [Занятие 1](https://github.com/morgan1189/HSE-Programming/wiki/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-1:-GIT-%D0%B8-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-Python)   
 *ДЗ:* Завести свой репозиторий на github и заполнить [гугл-форму](https://goo.gl/forms/axIgoCM0M6BJtDff1) ссылкой на этот репозиторий.
 
-2) *19.09.2017* 
-Типы переменных в Python. Операторы сравнения. Условия. [Занятие 2](https://github.com/morgan1189/HSE-Programming/wiki/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-1:-GIT-%D0%B8-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-Python)   
+2) *19.09.2017* Типы переменных в Python. Операторы сравнения. Условия. [Занятие 2](https://github.com/morgan1189/HSE-Programming/wiki/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-1:-GIT-%D0%B8-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-Python)   
 *ДЗ:* Выполнить задание в соответствии со своим вариантом. Загрузить решение в свой репозиторий внутрь папки `hw1` (см. структуру `example_repo` в репозитории этого курса).
 
 ## Оценки и дедлайны
