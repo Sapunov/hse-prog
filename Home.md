@@ -6,7 +6,7 @@
 
 [Материалы курса](https://github.com/morgan1189/HSE-Programming)
 
-**Преподаватели**: Борис Валерьевич Орехов (nevmenandr@gmail.com), Евгения Мещерякова (e-mesch@yandex.ru), Сергей Муратов (muratovst@gmail.com)
+**Преподаватели**: Борис Валерьевич Орехов (nevmenandr@gmail.com), Евгения Мещерякова (e-mesch@yandex.ru), Константин Маланчев (kmalanchev@hse.ru), Сергей Муратов (muratovst@gmail.com)
 
 ## Содержание
 
