@@ -2,7 +2,7 @@
 
 **1 курс бакалавриата факультета гуманитарных наук НИУ ВШЭ (Москва)**
 
-Программа курса -- добавить ссылку
+Программа курса – https://www.hse.ru/edu/courses/214343330
 
 [Материалы курса](https://github.com/morgan1189/HSE-Programming)
 
@@ -15,8 +15,8 @@
 |1|[GIT и знакомство с Python](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-01:-GIT-и-знакомство-с-Python)|12.09.2017|||12.09.2017||
 |2|[Условия (if-else-elif) и операторы сравнения](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-02:-Условия-(if-else-elif)-и-операторы-сравнения)|19.09.2017|||19.09.2017||
 |3|[Циклы](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-03:-Циклы)|26.09.2017|||26.09.2017||
-|4|[Списки](https://github.com/morgan1189/HSE-Programming/wiki/Занятия-4:-Списки)|
-|5|[Файлы](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-05:-Файлы)|
+|4|[Списки](https://github.com/morgan1189/HSE-Programming/wiki/Занятия-4:-Списки)|7.11.2017|||9.11.2017|
+|5|[Файлы](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-05:-Файлы)|16.11.2017|||14.11.2017|
 |6|[Запись файлов](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-06:-Запись-файлов)|
 |7|[Функции](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-07:-Функции)|
 |8|[Снова функции](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-08:-Снова-функции-и-импорт)|13.01.2018|||13.01.2018|
