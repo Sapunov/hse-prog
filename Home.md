@@ -17,8 +17,9 @@
 |3|[Циклы](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-03:-Циклы)|26.09.2017|||26.09.2017||
 |4|[Списки](https://github.com/morgan1189/HSE-Programming/wiki/Занятия-4:-Списки)|7.11.2017|||9.11.2017|
 |5|[Файлы](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-05:-Файлы)|16.11.2017|||14.11.2017|
-|6|[Запись файлов](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-06:-Запись-файлов)|
-|7|[Функции](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-07:-Функции)|
+|6|[Запись файлов](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-06:-Запись-файлов)|21.11.2017|||21.11.2017|
+|7|[Функции](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-07:-Функции)|5.12.2017|||5.12.2017|
+|К/р|Контрольная работа|12.12.2017|||12.12.2017|
 |8|[Снова функции](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-08:-Снова-функции-и-импорт)|13.01.2018|||13.01.2018|
 |9|[Словари](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-09:-Словари)|27.01.2018|||27.01.2018|23:59 4.02.2018|
 |10|[Вложенные словари](https://github.com/morgan1189/HSE-Programming/wiki/Занятие-10:-Вложенные-словари)|10.02.2018|||10.02.2018|23:59 18.02.2018|
